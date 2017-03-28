@@ -1,16 +1,16 @@
 # Summary
 
-##第1部分　Python核心
-*第1章　欢迎来到Python世界
-  *1.1　什么是Python
-  *1.2　起源
-  *1.3　特点
-  *1.4　下载和安装Python
-  *1.5　运行Python
-  *1.6　Python文档
-  *1.7　比较Python（Python与其他语言的比较）
-  *1.8　其他实现
-  *1.9　练习
+## 第1部分　Python核心
+* 第1章　欢迎来到Python世界
+  * 1.1　什么是Python
+  * 1.2　起源
+  * 1.3　特点
+  * 1.4　下载和安装Python
+  * 1.5　运行Python
+  * 1.6　Python文档
+  * 1.7　比较Python（Python与其他语言的比较）
+  * 1.8　其他实现
+  * 1.9　练习
 *第2章　快速入门
 2.1　程序输出，print语句及"Hello World!"
 2.2　程序输入和raw_input（）内建函数
