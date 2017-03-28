@@ -1,5 +1,3 @@
-# python-notebook
- 整理我自己学习python的心路历程。
 ## 第3章——Python基础
 本章将对Python的语法进行总览，并给出一些关于风格的注意事项。你可以接触到Python的关键词，还会了解它的内存管理能力。在本章的结尾将会出现你的第一个Python程序，你可以体会到真正的Python代码。
 ## 第4章——Python对象
